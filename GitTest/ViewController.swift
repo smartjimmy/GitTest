@@ -7,6 +7,12 @@
 //
 
 // MASTER BRANCH
+
+// WILL THIS UNCOMITTED SHIT BE CARRIED TO BRANCH EVEN IF UNSAVED/COMITTED
+
+// Branch 1 we doin shit
+
+
 import UIKit
 
 class ViewController: UIViewController {
